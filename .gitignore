@@ -1,3 +1,5 @@
-/Listings/
-/DebugConfig/
-/Objects/
+$ cat .gitignore
+
+Listings/*
+DebugConfig/*
+Objects/*
