@@ -42,8 +42,8 @@ int main(void){
 	.en_int = INT_ALU,
 	.rfedge2 = CH2_RISING_OR_FALLING,
 	.rfedge1 = CH1_RISING_OR_FALLING,
-	.delay_stop_int = (float)(delay_stop_mS * 7.8125f),//Freq 4MGz CLKHS_DIV_1
-	.delay_stop_frac  = 0,
+	.delay_stop_int_sh1 = (float)(delay_stop_mS * 7.8125f),//Freq 4MGz CLKHS_DIV_1
+	.delay_stop_frac_sh1  = 0,
 	.ID = id
 };
 	
