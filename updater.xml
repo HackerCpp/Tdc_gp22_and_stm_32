@@ -1,12 +1,12 @@
 <rss version="3.0">
 <channel>
 <title>Your Great App's Changelog</title>
-<link>http://pypt.github.com/fervor/Appcast.xml</link>
+<link>https://github.com/hakent/Tdc_gp22_and_stm_32/blob/master/updater.xml</link>
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
-<atom:link href="http://pypt.github.com/fervor/Appcast.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://github.com/hakent/Tdc_gp22_and_stm_32/blob/master/updater.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+<title>Version 3.0 (2 bugs fixed; 3 new features)</title>
 <pubDate>Mon, 09 Jan 2006 19:20:11 +0000</pubDate>
 <guid isPermaLink="true">http://pypt.github.com/fervor/RelNotes.html#v2.0</guid>
 <!--
